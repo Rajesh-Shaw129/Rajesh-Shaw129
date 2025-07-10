@@ -1,5 +1,3 @@
-# About Me
-
 <h1 align="center">Hi there 👋, I'm Rajesh Shaw</h1>
 
 <p align="center">🌟 Passionate about turning data noise into strategic decisions through social listening, analytics, and visualization.</p>
